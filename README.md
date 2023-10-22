@@ -5,3 +5,7 @@ This repository aims to show how to use git and github and also some usefull fea
 ## Notes
 
 Take a look on the following notebook () to see a basic introduction about git, who it works and also some usefull commands that probably you will need further.
+
+## Local Development
+
+1. Open index.html in your browser
